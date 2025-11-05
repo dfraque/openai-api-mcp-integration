@@ -16,7 +16,7 @@ from fastmcp import Client
 os.environ["OPENAI_API_KEY"] = ""
 
 OPENAI_MODEL = "gpt-4o-mini"
-MCP_SERVER_URL = "https://combative-red-kite.fastmcp.app/mcp"
+MCP_SERVER_URL = ""
 
 
 async def main():
